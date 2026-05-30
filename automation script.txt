@@ -1,0 +1,9 @@
+
+Part 12- Update the output Excel file for file movement.
+Part 11: The master script which drives all the logic.
+Part10 - Creates and uploads the artifact
+Part9 - Creates the api body for Transaction exchange
+Part8 - Creates the api body for Transaction History
+Parts 5, 6, and 7- Test the TE, TH and Art apis
+Part 4- Moves the files to the desired location
+Parts 1, 2, and 3 fetch the PDFs from the backend

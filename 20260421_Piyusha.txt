@@ -1,0 +1,4008 @@
+[
+	{
+		"Delivery Number": "160851157",
+		"Transfer From": "MERZ",
+		"Transaction Date": "2024-06-10",
+		"Shipment Date": "2024-06-10",
+		"Drop Shipment": "Yes",
+		"Sold To": "Cardinal Health",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "259160501",
+					"Lot Number": "324509",
+					"Expiration Date": "2026-07-31",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea195a66-159b-49be-a452-2f236c1df1e9merz 455598.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "530616",
+		"Transfer From": "MCKESSON",
+		"Transaction Date": "2025-03-24",
+		"Shipment Date": "2025-03-24",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "10"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea177bc8-e5ca-4990-8a84-f59ad1d621f7mckesson 530616.pdf",
+		"Page Number": "1",
+		"Status": "Needs Additional Information"
+	},
+	{
+		"Delivery Number": "541288",
+		"Transfer From": "MCKESSON SPECIALTY",
+		"Transaction Date": "2025-04-29",
+		"Shipment Date": "2025-04-29",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00173-0881-01",
+					"Lot Number": "899V",
+					"Expiration Date": "2028-04-30",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00002608260",
+					"Lot Number": "D753387A",
+					"Expiration Date": "2027-02-02",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "00173091513",
+					"Lot Number": "1991846",
+					"Expiration Date": "2027-02-28",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "00069013501",
+					"Lot Number": "LP2831",
+					"Expiration Date": "2028-07-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "55513048824",
+					"Lot Number": "1179751",
+					"Expiration Date": "2027-05-31",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea128d79-ea76-4c13-8b5d-8f854e8408e7mckesson 541288.pdf",
+		"Page Number": "1, 2, 3, 4",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "485189",
+		"Transfer From": "MCKESSON SPECIALTY",
+		"Transaction Date": "2024-09-28",
+		"Shipment Date": "2024-09-28",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00002534060",
+					"Lot Number": "D700805A",
+					"Expiration Date": "2027-01-10",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea98deb3-31d3-40b7-838e-c9f23ccff086Mckesson 485189.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "419210",
+		"Transfer From": "MCKESSON SPECIALTY",
+		"Transaction Date": "2024-01-02",
+		"Shipment Date": "2024-01-02",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "61755-0005-01",
+					"Lot Number": "8231500358",
+					"Expiration Date": "2025-03-31",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea94a615-3c7d-4222-91be-f5bfc6c256dbMCK419210.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "549912",
+		"Transfer From": "MCKESSON SPECIALTY",
+		"Transaction Date": "2025-05-31",
+		"Shipment Date": "2025-05-31",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00069048603",
+					"Lot Number": "LM1331",
+					"Expiration Date": "2027-05-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00069028403",
+					"Lot Number": "LR8726",
+					"Expiration Date": "2027-09-30",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "00069033428",
+					"Lot Number": "LP2868",
+					"Expiration Date": "2027-08-31",
+					"Quantity": "23"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "70710118003",
+					"Lot Number": "E409418",
+					"Expiration Date": "2026-11-30",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "00069068803",
+					"Lot Number": "LG9677",
+					"Expiration Date": "2027-04-30",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 6": {
+					"NDC": "59676060430",
+					"Lot Number": "QABSE00",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "17"
+				}
+			},
+			{
+				"Product 7": {
+					"NDC": "59676060012",
+					"Lot Number": "25CG684",
+					"Expiration Date": "2028-01-31",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 8": {
+					"NDC": "00069019301",
+					"Lot Number": "LR5620",
+					"Expiration Date": "2028-05-31",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea17ada4-d9c3-4733-aaee-fdd3de9d9d81mckesson sp 549912.pdf",
+		"Page Number": "1, 2, 3, 4",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "466986",
+		"Transfer From": "Genentech",
+		"Transaction Date": "2024-07-23",
+		"Shipment Date": "2024-07-23",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50242021501",
+					"Lot Number": "3603362",
+					"Expiration Date": "2025-10-31",
+					"Quantity": "152.000"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "50242021401",
+					"Lot Number": "3603336",
+					"Expiration Date": "2025-07-31",
+					"Quantity": "5.000"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f22fba29-90de-4fd1-b215-b8cfe876da69genentech 466986.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "442561",
+		"Transfer From": "Bayer Healthcare Pharmaceuticals",
+		"Transaction Date": "2024-04-15",
+		"Shipment Date": "2024-04-15",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50419039501",
+					"Lot Number": "2183153",
+					"Expiration Date": "2026-01-31",
+					"Quantity": "41"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "50419039501",
+					"Lot Number": "2183153",
+					"Expiration Date": "2026-01-31",
+					"Quantity": "15"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "50419017106",
+					"Lot Number": "3167426",
+					"Expiration Date": "2025-08-31",
+					"Quantity": "7"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f25affa3-309a-46c9-8d2c-5a02313a7a37TRACELINK SCANS 4-17-2024_BAYER_442561_14.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "507913M8175",
+		"Transfer From": "Alexion Pharmaceuticals, Inc.",
+		"Transaction Date": "2024-12-27",
+		"Shipment Date": "2024-12-27",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "2568200701",
+					"Lot Number": "1004372",
+					"Expiration Date": "2026-06-30",
+					"Quantity": "20"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f31ca4a3-ecc8-4795-a906-16635a35bd79TRACELINK SCANS 1-8-2025_MCKESSON PLASMA_507913_1.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "469704",
+		"Transfer From": "McKesson Plasma and Biologics LLC",
+		"Transaction Date": "2024-08-02",
+		"Shipment Date": "2024-08-02",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "55513012301",
+					"Lot Number": "1172473",
+					"Expiration Date": "2026-09-30",
+					"Quantity": "4"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "55513012301",
+					"Lot Number": "1172473",
+					"Expiration Date": "2026-09-30",
+					"Quantity": "10"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "55513012301",
+					"Lot Number": "1172473",
+					"Expiration Date": "2026-09-30",
+					"Quantity": "10"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f32e4ec5-4a00-45aa-a0ff-b1fd81c5056fMckesson Sp 469704.pdf",
+		"Page Number": "1, 2, 3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "467019",
+		"Transfer From": "Genentech",
+		"Transaction Date": "2024-07-23",
+		"Shipment Date": "2024-07-23",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50242004062",
+					"Lot Number": "3601252",
+					"Expiration Date": "2027-06-30",
+					"Quantity": "5.000"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "50242021501",
+					"Lot Number": "3603362",
+					"Expiration Date": "2025-10-31",
+					"Quantity": "70.000"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "50242022701",
+					"Lot Number": "3607564",
+					"Expiration Date": "2025-04-30",
+					"Quantity": "3.000"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f32fb0e1-a481-4081-967e-95881ad9580b07252024GENENTECH.467019131235.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "000059576",
+		"Transfer From": "Summit SD",
+		"Transaction Date": "2023-07-10",
+		"Shipment Date": "2023-07-10",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "69660020291",
+					"Lot Number": "ZXTX",
+					"Expiration Date": "2025-07-31",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f34e7100-b586-414c-9a15-53ad8a073960TRACELINK SCANS 7-18-2023-3_SUMMIT_59576_24.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "466264",
+		"Transfer From": "McKesson Specialty Distribution LLC",
+		"Transaction Date": "2024-07-20",
+		"Shipment Date": "2024-07-20",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "49401008835",
+					"Lot Number": "SB3M",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "49401008835",
+					"Lot Number": "SB3M",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "49401008835",
+					"Lot Number": "SB3M",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "6"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f36d4868-162c-4def-af03-4013dc6b1e0dMckesson 466264.pdf",
+		"Page Number": "1, 2, 3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "5009460",
+		"Transfer From": "McKesson Specialty Care Dist",
+		"Transaction Date": "2023-07-05",
+		"Shipment Date": "2023-07-05",
+		"Drop Shipment": "Yes",
+		"Sold To": "CARDINAL HEALTH INC",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "62064-0241-30",
+					"Lot Number": "0L257",
+					"Expiration Date": "2024-02-29",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f39b8c8b-d552-45a7-aa3f-3d687831f2d4Mckesson 58137.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "429146",
+		"Transfer From": "TAKEDA PHARMACEUTICALS",
+		"Transaction Date": "2024-02-15",
+		"Shipment Date": "2024-02-15",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00008074020",
+					"Lot Number": "H524",
+					"Expiration Date": "2027-12-01",
+					"Quantity": "34"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00944270006",
+					"Lot Number": "C23G193AAA",
+					"Expiration Date": "2026-11-22",
+					"Quantity": "10"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "42227008301",
+					"Lot Number": "C4A007AA",
+					"Expiration Date": "2026-06-30",
+					"Quantity": "24"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f48a9055-4e4d-4513-b5fd-248e0d4bc71dTRACELINK SCANS 2-19-2024_TAKEDA_429146_6.pdf",
+		"Page Number": "1, 2, 3, 4",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "558620M9495",
+		"Transfer From": "AbbVie",
+		"Transaction Date": "2025-06-30",
+		"Shipment Date": "2025-06-30",
+		"Drop Shipment": "Yes",
+		"Sold To": "CENTRAL OH MCK DC",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00023392102",
+					"Lot Number": "D0619C4",
+					"Expiration Date": "2027-12-31",
+					"Quantity": "654"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00023114501",
+					"Lot Number": "D0547AC4",
+					"Expiration Date": "2027-10-31",
+					"Quantity": "289"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f50e0877-1923-4763-9bb2-e7a603131664TRACELINK SCANS 7-8-2025_CENTRAL OH MCK_558620_12.pdf",
+		"Page Number": "1, 2, 4, 6, 8, 10, 12, 14, 16, 18",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "473063",
+		"Transfer From": "MCKESSON SPEACIALTY",
+		"Transaction Date": "2024-08-15",
+		"Shipment Date": "2024-08-15",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50242014001",
+					"Lot Number": "N1133B03",
+					"Expiration Date": "2027-10-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "50242014001",
+					"Lot Number": "N1134B02",
+					"Expiration Date": "2027-10-31",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "59572074007",
+					"Lot Number": "N2019AB",
+					"Expiration Date": "2025-11-30",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "00002298026",
+					"Lot Number": "D695435A",
+					"Expiration Date": "2025-11-13",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "47335040181",
+					"Lot Number": "FG14567",
+					"Expiration Date": "2027-10-31",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 6": {
+					"NDC": "68546017060",
+					"Lot Number": "5000600039",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 7": {
+					"NDC": "00069873030",
+					"Lot Number": "5721409A",
+					"Expiration Date": "2025-10-31",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 8": {
+					"NDC": "68546047256",
+					"Lot Number": "2403103",
+					"Expiration Date": "2027-08-31",
+					"Quantity": "7"
+				}
+			},
+			{
+				"Product 9": {
+					"NDC": "00069068803",
+					"Lot Number": "CMCKC",
+					"Expiration Date": "2027-06-30",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 10": {
+					"NDC": "00069015111",
+					"Lot Number": "100059207",
+					"Expiration Date": "2026-01-31",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 11": {
+					"NDC": "00069119530",
+					"Lot Number": "HW1278",
+					"Expiration Date": "2026-03-31",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 12": {
+					"NDC": "71332000101",
+					"Lot Number": "LD4082",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f51cb8ed-0272-4faf-9573-794d17a8bc78mckesson 473063.pdf",
+		"Page Number": "1, 2, 3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "433896",
+		"Transfer From": "Cardinal Health",
+		"Transaction Date": "2024-03-07",
+		"Shipment Date": "2024-03-07",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "66658023101",
+					"Lot Number": "W004830",
+					"Expiration Date": "2025-01-31",
+					"Quantity": "8"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "66658023001",
+					"Lot Number": "W004833",
+					"Expiration Date": "2025-01-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "55513011201",
+					"Lot Number": "1170320",
+					"Expiration Date": "2026-06-30",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f52e1aea-54a7-4e4c-85ba-a7493bd9777ccardinal sp 433896.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "484753",
+		"Transfer From": "INTERCEPT PHARMACEUTICALS INC",
+		"Transaction Date": "2024-09-26",
+		"Shipment Date": "2024-09-26",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "69516000530",
+					"Lot Number": "INT00034",
+					"Expiration Date": "2027-01-05",
+					"Quantity": "8"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f53e30be-962a-4288-ae88-dbf4c1bc813cTRACELINK SCANS 9-30-2024_INTERCEPT_484753_17.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "508032",
+		"Transfer From": "MCKESSON",
+		"Transaction Date": "2024-12-31",
+		"Shipment Date": "2024-12-31",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f55fce67-fe6d-4b0a-a129-a2b96d322c8a01032025MCKESSON.508032131252.pdf",
+		"Page Number": "1",
+		"Status": "Needs Additional Information"
+	},
+	{
+		"Delivery Number": "475424",
+		"Transfer From": "IPSEN",
+		"Transaction Date": "2024-08-22",
+		"Shipment Date": "2024-08-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "15054053006",
+					"Lot Number": "P3479450",
+					"Expiration Date": "2026-04-30",
+					"Quantity": "10"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "15054104005",
+					"Lot Number": "P3479451",
+					"Expiration Date": "2025-09-30",
+					"Quantity": "14"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "15054106004",
+					"Lot Number": "P3479453",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "4"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "15054112004",
+					"Lot Number": "P3479452",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "10"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f55fe4e8-c579-44d1-9f11-6efcb3bd7969TRACELINK SCANS 8-26-2024_IPSEN_475424_13.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "463996",
+		"Transfer From": "MCKESSON",
+		"Transaction Date": "2024-07-12",
+		"Shipment Date": "2024-07-12",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "08470115001",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "50"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f56c956e-9000-403c-a2ff-05e3c09a21ddmckesson sp 463996.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "451700",
+		"Transfer From": "ASCENDIS PHARMA ENDO, INC.",
+		"Transaction Date": "2024-05-23",
+		"Shipment Date": "2024-05-23",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "73362000301",
+					"Lot Number": "03640136",
+					"Expiration Date": "2025-09-30",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f57b082d-4dc2-42ad-93a3-a1d491babc36TRACELINK SCANS 5-28-2024_ASCENDIS_451700_11.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "474366",
+		"Transfer From": "MCKESSON",
+		"Transaction Date": "2024-08-20",
+		"Shipment Date": "2024-08-20",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "66302046760",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "64406000602",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "49502040124",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "61958240101",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "00378000685",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 6": {
+					"NDC": "51991082328",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 7": {
+					"NDC": "00002448354",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "20"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f51eb6b3-39de-45ac-b3a6-d37acf4bdfd8Mckesson 474366.pdf",
+		"Page Number": "1, 2, 3, 4, 5, 6, 7, 8",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "402926",
+		"Transfer From": "Sobi",
+		"Transaction Date": "2023-10-09",
+		"Shipment Date": "2023-10-09",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "71369-0020-10",
+					"Lot Number": "89848",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "71369-0020-30",
+					"Lot Number": "W071742A",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f688dc4c-40cc-46c7-880b-3bca54d6e409AkaRx 402926.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "411515",
+		"Transfer From": "CSL Behring",
+		"Transaction Date": "2023-11-27",
+		"Shipment Date": "2023-11-27",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "63833-828-02",
+					"Lot Number": "P100578425",
+					"Expiration Date": "2026-05-15",
+					"Quantity": "38"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "63833-828-02",
+					"Lot Number": "P100578425",
+					"Expiration Date": "2026-05-15",
+					"Quantity": "30"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f829ff56-0dae-46fe-be96-40a81e914323TRACELINK SCANS 11-29-2023_CSL BEHRING_411515_32.pdf",
+		"Page Number": "1, 2, 4",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "402251",
+		"Transfer From": "Taiho Oncology Inc",
+		"Transaction Date": "2023-10-04",
+		"Shipment Date": "2023-10-04",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "64842-1020-01",
+					"Lot Number": "1957385",
+					"Expiration Date": "2026-06-30",
+					"Quantity": "4"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "64842-1025-02",
+					"Lot Number": "1982072",
+					"Expiration Date": "2026-07-31",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "64842-1025-03",
+					"Lot Number": "1923152",
+					"Expiration Date": "2026-01-31",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f832cf66-0a5d-495e-9734-aae28415c726TRACELINK SCANS 10-10-2023_1_TAIHO_402251_25.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "422148",
+		"Transfer From": "EMD Serono",
+		"Transaction Date": "2024-01-16",
+		"Shipment Date": "2024-01-16",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "44087-4000-00",
+					"Lot Number": "00035671",
+					"Expiration Date": "2027-04-30",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "44087-4000-07",
+					"Lot Number": "00035635",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "4"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "44087-4000-08",
+					"Lot Number": "00035439",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "44087-4000-09",
+					"Lot Number": "00035898",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f840f0fd-cae3-4a31-ab57-f269ae1629e5TRACELINK SCANS 1-24-2024_EMD_422148_29.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "408063",
+		"Transfer From": "Taiho Oncology Inc",
+		"Transaction Date": "2023-11-06",
+		"Shipment Date": "2023-11-06",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "64842-1020-02",
+					"Lot Number": "1996139",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "10"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "64842-1025-02",
+					"Lot Number": "1982072",
+					"Expiration Date": "2026-07-31",
+					"Quantity": "7"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f5274d5f-62b0-410e-ac8a-6922aaa1d2e0TraceLink Scans 11-08-2023_Taiho_408063_10.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "510480M3500",
+		"Transfer From": "Merz Pharmaceuticals, LLC",
+		"Transaction Date": "2025-01-08",
+		"Shipment Date": "2025-01-08",
+		"Drop Shipment": "Yes",
+		"Sold To": "McKesson Corporation",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "259160501",
+					"Lot Number": "432946",
+					"Expiration Date": "2027-04-30",
+					"Quantity": "5"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f5447f62-9628-46ec-82b2-0f122d6f27b8TRACELINK SCANS 1-24-2025_CENTRAL OH MCK_510480_16.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "510480M3501",
+		"Transfer From": "Tersera Therapeutics",
+		"Transaction Date": "2025-01-15",
+		"Shipment Date": "2025-01-15",
+		"Drop Shipment": "Yes",
+		"Sold To": "McKesson Financial Center",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "70720-0950-36",
+					"Lot Number": "WF0288",
+					"Expiration Date": "2026-08-31",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f5447f62-9628-46ec-82b2-0f122d6f27b8TRACELINK SCANS 1-24-2025_CENTRAL OH MCK_510480_16.pdf",
+		"Page Number": "3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "510480",
+		"Transfer From": "McKesson Pharma",
+		"Transaction Date": "2025-01-09",
+		"Shipment Date": "2025-01-09",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50458060601",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "70748015301",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "57894015012",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f5447f62-9628-46ec-82b2-0f122d6f27b8TRACELINK SCANS 1-24-2025_CENTRAL OH MCK_510480_16.pdf",
+		"Page Number": "4",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "465537",
+		"Transfer From": "Zimmer Biomet",
+		"Transaction Date": "2024-07-17",
+		"Shipment Date": "2024-07-17",
+		"Drop Shipment": "Yes",
+		"Sold To": "McKesson Pharmacy",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "",
+					"Lot Number": "0023Z19G",
+					"Expiration Date": "2026-02-12",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6440b7c-2f47-44f1-afc7-a3a14a731bf6TRACELINK SCANS 8-1-2024_2_CENTRAL OH MCK_465537_7.pdf",
+		"Page Number": "1, 2",
+		"Status": "Needs Additional Information"
+	},
+	{
+		"Delivery Number": "465537M8573",
+		"Transfer From": "Otsuka",
+		"Transaction Date": "2024-07-17",
+		"Shipment Date": "2024-07-17",
+		"Drop Shipment": "Yes",
+		"Sold To": "McKesson",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "59148002150",
+					"Lot Number": "SBS23002",
+					"Expiration Date": "2026-04-30",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6440b7c-2f47-44f1-afc7-a3a14a731bf6TRACELINK SCANS 8-1-2024_2_CENTRAL OH MCK_465537_7.pdf",
+		"Page Number": "3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "465537M8574",
+		"Transfer From": "Tersera Therapeutics",
+		"Transaction Date": "2024-07-17",
+		"Shipment Date": "2024-07-17",
+		"Drop Shipment": "Yes",
+		"Sold To": "McKesson",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "70720-0950-36",
+					"Lot Number": "TM0127",
+					"Expiration Date": "2026-05-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "70720-0951-30",
+					"Lot Number": "TH0086",
+					"Expiration Date": "2025-10-31",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6440b7c-2f47-44f1-afc7-a3a14a731bf6TRACELINK SCANS 8-1-2024_2_CENTRAL OH MCK_465537_7.pdf",
+		"Page Number": "4",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "514119",
+		"Transfer From": "Sanofi",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "58468022001",
+					"Lot Number": "FA1089",
+					"Expiration Date": "2027-02-28",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "512958M0968",
+		"Transfer From": "Merck",
+		"Transaction Date": "2025-01-21",
+		"Shipment Date": "2025-01-21",
+		"Drop Shipment": "Yes",
+		"Sold To": "McKesson Corporation",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00006307502",
+					"Lot Number": "Y008663",
+					"Expiration Date": "2027-01-06",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513234",
+		"Transfer From": "Exelixis INC",
+		"Transaction Date": "2025-01-21",
+		"Shipment Date": "2025-01-21",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "42388-0024-46",
+					"Lot Number": "CPFST",
+					"Expiration Date": "2026-07-31",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513748",
+		"Transfer From": "Novartis Pharmaceutical Corporation",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "0078-0684-15",
+					"Lot Number": "PD7815",
+					"Expiration Date": "2027-07-31",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "4",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513584",
+		"Transfer From": "Genentech",
+		"Transaction Date": "2025-01-21",
+		"Shipment Date": "2025-01-21",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50242004062",
+					"Lot Number": "3615932",
+					"Expiration Date": "2027-08-31",
+					"Quantity": "20"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "5",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513259",
+		"Transfer From": "Incyte Corporation",
+		"Transaction Date": "2025-01-20",
+		"Shipment Date": "2025-01-20",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50881-0010-60",
+					"Lot Number": "4271822",
+					"Expiration Date": "2027-02-28",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "6",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513242",
+		"Transfer From": "Novartis Pharmaceutical Corporation",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "0078-1105-15",
+					"Lot Number": "PC1664",
+					"Expiration Date": "2026-05-31",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "7",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513255",
+		"Transfer From": "Vertex Pharmaceuticals Inc",
+		"Transaction Date": "2025-01-21",
+		"Shipment Date": "2025-01-21",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "51167-0200-01",
+					"Lot Number": "2000414",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "51167-0331-01",
+					"Lot Number": "2071443",
+					"Expiration Date": "2027-05-31",
+					"Quantity": "8"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "8",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513595",
+		"Transfer From": "Incyte Corporation",
+		"Transaction Date": "2025-01-21",
+		"Shipment Date": "2025-01-21",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50881-0015-60",
+					"Lot Number": "4271823",
+					"Expiration Date": "2027-02-28",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "50881-0025-60",
+					"Lot Number": "4271825",
+					"Expiration Date": "2027-02-28",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "9",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513983",
+		"Transfer From": "Bioventus",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "71564444",
+					"Lot Number": "4X4J02",
+					"Expiration Date": "2028-02-29",
+					"Quantity": "6"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "10",
+		"Status": "Skipped"
+	},
+	{
+		"Delivery Number": "514118",
+		"Transfer From": "Optum",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50474078284",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "11",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "514012",
+		"Transfer From": "Optum",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "61314032720",
+					"Lot Number": "NX8204",
+					"Expiration Date": "",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00003218851",
+					"Lot Number": "2085444",
+					"Expiration Date": "",
+					"Quantity": "13"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "00310183030",
+					"Lot Number": "WC0193",
+					"Expiration Date": "",
+					"Quantity": "10"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "00003218713",
+					"Lot Number": "2061142",
+					"Expiration Date": "",
+					"Quantity": "12"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "00003218811",
+					"Lot Number": "ACQ8154",
+					"Expiration Date": "",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 6": {
+					"NDC": "55513047902",
+					"Lot Number": "1179647",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 7": {
+					"NDC": "84612047902",
+					"Lot Number": "1184931",
+					"Expiration Date": "",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 8": {
+					"NDC": "84612048202",
+					"Lot Number": "1183985",
+					"Expiration Date": "",
+					"Quantity": "16"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "12",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513981",
+		"Transfer From": "Alkermes Inc",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "65757-0300-01",
+					"Lot Number": "2024-1045T",
+					"Expiration Date": "2027-08-31",
+					"Quantity": "12"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "13",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513222",
+		"Transfer From": "Sobi",
+		"Transaction Date": "2025-01-20",
+		"Shipment Date": "2025-01-20",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "71369-0020-30",
+					"Lot Number": "13595",
+					"Expiration Date": "2029-04-30",
+					"Quantity": "6"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "14",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "514001",
+		"Transfer From": "Takeda Pharmaceuticals America",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "47783-0646-01",
+					"Lot Number": "04048119",
+					"Expiration Date": "2026-02-28",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "15",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513264",
+		"Transfer From": "Boehringer Ingelheim",
+		"Transaction Date": "2025-01-21",
+		"Shipment Date": "2025-01-21",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00005-5039-70",
+					"Lot Number": "P135754",
+					"Expiration Date": "2026-09-30",
+					"Quantity": "9"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "16",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513997",
+		"Transfer From": "Takeda Pharmaceuticals America, Inc.",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00944-2700-06",
+					"Lot Number": "BE12EG33AB",
+					"Expiration Date": "2027-11-06",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "17",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513996",
+		"Transfer From": "Specialty Pharmaceutical Services",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "69387000101",
+					"Lot Number": "101209FG",
+					"Expiration Date": "2028-04-30",
+					"Quantity": "12"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "18",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "514000",
+		"Transfer From": "Specialty Pharmaceutical Services",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "70510232102",
+					"Lot Number": "028228A",
+					"Expiration Date": "2026-07-31",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "70510232201",
+					"Lot Number": "028822A",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "19",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513985",
+		"Transfer From": "Ipsen Biopharmaceuticals, Inc",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "15054050001",
+					"Lot Number": "013637",
+					"Expiration Date": "2026-09-30",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "15054053006",
+					"Lot Number": "009441",
+					"Expiration Date": "2026-06-30",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "15054106004",
+					"Lot Number": "P3614160",
+					"Expiration Date": "2027-08-31",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "20",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513862",
+		"Transfer From": "ANI Pharmaceuticals, Inc.",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "62559086015",
+					"Lot Number": "322824",
+					"Expiration Date": "2026-08-31",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "21",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "514008M3344",
+		"Transfer From": "AbbVie",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "Yes",
+		"Sold To": "McKesson Drug Corp",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00023114501",
+					"Lot Number": "D0242AC4",
+					"Expiration Date": "2027-05-31",
+					"Quantity": "33"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00023392102",
+					"Lot Number": "D0241AC4",
+					"Expiration Date": "2027-04-30",
+					"Quantity": "72"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "00023114501",
+					"Lot Number": "D0242AC4",
+					"Expiration Date": "2027-05-31",
+					"Quantity": "30"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "00023392102",
+					"Lot Number": "D0241AC4",
+					"Expiration Date": "2027-04-30",
+					"Quantity": "9"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "22, 24",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513998",
+		"Transfer From": "FFF Enterprises, Inc.",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "63004-8710-01",
+					"Lot Number": "1564-106",
+					"Expiration Date": "2026-09-30",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "25",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513982",
+		"Transfer From": "Ascendis Pharma Endo, Inc.",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "73362-0005-01",
+					"Lot Number": "04447685",
+					"Expiration Date": "2028-02-29",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "73362-0007-01",
+					"Lot Number": "03991239",
+					"Expiration Date": "2027-10-31",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "73362-0008-01",
+					"Lot Number": "04449802",
+					"Expiration Date": "2027-10-31",
+					"Quantity": "9"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "73362-0009-01",
+					"Lot Number": "04451964",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "7"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "73362-0010-01",
+					"Lot Number": "04451969",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 6": {
+					"NDC": "73362-0011-01",
+					"Lot Number": "04449800",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "5"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "26, 27",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513994",
+		"Transfer From": "Radius Health",
+		"Transaction Date": "2025-01-22",
+		"Shipment Date": "2025-01-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "70539-0001-02",
+					"Lot Number": "D04736A",
+					"Expiration Date": "2027-05-31",
+					"Quantity": "30"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "28",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "513584",
+		"Transfer From": "Genentech",
+		"Transaction Date": "2025-01-21",
+		"Shipment Date": "2025-01-21",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50242021401",
+					"Lot Number": "3603341",
+					"Expiration Date": "2026-02-28",
+					"Quantity": "4"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "50242021501",
+					"Lot Number": "3613575",
+					"Expiration Date": "2026-02-28",
+					"Quantity": "33"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6640ddf-c09a-4bbd-8969-d10ac8198c88mfpscan_2025032608502248.pdf",
+		"Page Number": "29",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "540731M8208",
+		"Transfer From": "Merz Pharmaceuticals, LLC",
+		"Transaction Date": "2025-04-28",
+		"Shipment Date": "2025-04-28",
+		"Drop Shipment": "Yes",
+		"Sold To": "McKesson Corporation",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00259160501",
+					"Lot Number": "435059",
+					"Expiration Date": "2027-07-31",
+					"Quantity": "5"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f00bfda0-80db-4319-9dd5-455e176ece9aTRACELINK SCANS 5-2-2025_CENTRAL OH MCK_540731_8.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "540731M8207",
+		"Transfer From": "teva",
+		"Transaction Date": "2025-04-28",
+		"Shipment Date": "2025-04-28",
+		"Drop Shipment": "Yes",
+		"Sold To": "MCKESSON CORP",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "0591-2512-60",
+					"Lot Number": "100063592",
+					"Expiration Date": "2026-05-31",
+					"Quantity": "6.000"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f00bfda0-80db-4319-9dd5-455e176ece9aTRACELINK SCANS 5-2-2025_CENTRAL OH MCK_540731_8.pdf",
+		"Page Number": "3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "416359",
+		"Transfer From": "SANDOZ",
+		"Transaction Date": "2023-12-19",
+		"Shipment Date": "2023-12-19",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "61314-866-01",
+					"Lot Number": "MV5478",
+					"Expiration Date": "2025-12-31",
+					"Quantity": "31"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f0b7ab30-4462-409b-9b4b-5b732b1be37eTRACELINK SCANS 12-21-2023_SANDOZ_416359_18.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "494424M7168",
+		"Transfer From": "MERCK",
+		"Transaction Date": "2024-11-04",
+		"Shipment Date": "2024-11-04",
+		"Drop Shipment": "Yes",
+		"Sold To": "MCKESSON CORPORATION",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00006307602",
+					"Lot Number": "Y016942",
+					"Expiration Date": "2027-06-24",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f0b53ff8-c765-466e-8740-d6f55cd21d96merck 494424.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "484039M9693",
+		"Transfer From": "Alexion Pharmaceuticals, Inc.",
+		"Transaction Date": "2024-09-24",
+		"Shipment Date": "2024-09-24",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "2568200101",
+					"Lot Number": "1004084",
+					"Expiration Date": "2026-10-31",
+					"Quantity": "8"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f0b537da-6e91-41bd-8db5-8f916c64ef0bTRACELINK SCANS 9-26-2024_MCKESSON PLASMA_484039_1.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "476177",
+		"Transfer From": "IPSEN",
+		"Transaction Date": "2024-08-26",
+		"Shipment Date": "2024-08-26",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "15054050001",
+					"Lot Number": "005144",
+					"Expiration Date": "2026-02-28",
+					"Quantity": "14"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "15054106004",
+					"Lot Number": "002054",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "4"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "15054109004",
+					"Lot Number": "000724",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "15054112004",
+					"Lot Number": "001323",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "8"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f0bb85a4-67ad-4596-a9c2-a90db87368caTRACELINK SCANS 8-28-2024_IPSEN_476177_11.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "160668827",
+		"Transfer From": "SEAGEN INC",
+		"Transaction Date": "2023-11-16",
+		"Shipment Date": "2023-11-16",
+		"Drop Shipment": "Yes",
+		"Sold To": "CARDINAL HEALTH",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "51144-0003-01",
+					"Lot Number": "194824",
+					"Expiration Date": "2024-12-31",
+					"Quantity": "5"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f0c53257-1408-447c-add1-ca1f1a280552TRACELINK SCANS 11-20-2023_CARDINAL_410530_4.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "468137",
+		"Transfer From": "MCKESSON SPECIALTY",
+		"Transaction Date": "2024-07-27",
+		"Shipment Date": "2024-07-27",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "68546017260",
+					"Lot Number": "5000600034",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00069023101",
+					"Lot Number": "HY9662",
+					"Expiration Date": "2026-09-30",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "00069022701",
+					"Lot Number": "LH0912",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "4"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "55513050450",
+					"Lot Number": "1170866",
+					"Expiration Date": "2026-01-31",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "00069150130",
+					"Lot Number": "2306810",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 6": {
+					"NDC": "00069873030",
+					"Lot Number": "5721409A",
+					"Expiration Date": "2025-10-31",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 7": {
+					"NDC": "50242014001",
+					"Lot Number": "N1134B02",
+					"Expiration Date": "2027-10-31",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 8": {
+					"NDC": "00002298026",
+					"Lot Number": "D695435A",
+					"Expiration Date": "2025-11-13",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 9": {
+					"NDC": "50242009490",
+					"Lot Number": "N2059B01",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f0c85379-f76b-4003-9fab-e8cc335dbdd2mckesson 468137.pdf",
+		"Page Number": "1, 2, 3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "160758550",
+		"Transfer From": "MERCK",
+		"Transaction Date": "2024-03-01",
+		"Shipment Date": "2024-03-01",
+		"Drop Shipment": "Yes",
+		"Sold To": "CARDINAL HEALTH",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00006056840",
+					"Lot Number": "X018899",
+					"Expiration Date": "2025-08-06",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00006307602",
+					"Lot Number": "Y003511",
+					"Expiration Date": "2026-11-10",
+					"Quantity": "10"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ead69763-aa84-41b8-b03d-77a9e6a8af12TRACELINK SCANS 3-12-2024_1_CARDINAL_424731_25.pdf",
+		"Page Number": "2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "160730388",
+		"Transfer From": "MERZ",
+		"Transaction Date": "2024-01-29",
+		"Shipment Date": "2024-01-29",
+		"Drop Shipment": "Yes",
+		"Sold To": "Cardinal",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "259160501",
+					"Lot Number": "219323",
+					"Expiration Date": "2025-10-31",
+					"Quantity": "5"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ead69763-aa84-41b8-b03d-77a9e6a8af12TRACELINK SCANS 3-12-2024_1_CARDINAL_424731_25.pdf",
+		"Page Number": "7",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "160554981",
+		"Transfer From": "ABBVIE US, LLC.",
+		"Transaction Date": "2023-07-11",
+		"Shipment Date": "2023-07-11",
+		"Drop Shipment": "Yes",
+		"Sold To": "CARDINAL HEALTH",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "0023-3348-07",
+					"Lot Number": "G60026",
+					"Expiration Date": "2025-08-31",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eadbbf37-e64e-4a31-b52c-01153fae166bTRACELINK SCANS 7-18-2023-1_CARDINAL_60032_4.pdf",
+		"Page Number": "2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "5012216575",
+		"Transfer From": "TAKEDA PHARMACEUTICALS AMERICA",
+		"Transaction Date": "2024-12-16",
+		"Shipment Date": "2024-12-16",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "64764-0108-21",
+					"Lot Number": "12778876",
+					"Expiration Date": "2025-08-31",
+					"Quantity": "6"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eae2816b-cc2b-428e-8007-0b355e2e0e4112182024TAKEDA.504342065610.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "466295",
+		"Transfer From": "ASCENDIS PHARMA ENDO, INC.",
+		"Transaction Date": "2024-07-22",
+		"Shipment Date": "2024-07-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "73362-0003-01",
+					"Lot Number": "04139847",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "73362-0006-01",
+					"Lot Number": "04116206",
+					"Expiration Date": "2027-02-28",
+					"Quantity": "6"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eaf01d84-ace5-4e5e-8f9f-4a85a1ef83b2TRACELINK SCANS 7-30-2024_2_ASCENDIS_466295_28.pdf",
+		"Page Number": "2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "466739",
+		"Transfer From": "pharmacyclics",
+		"Transaction Date": "2024-07-22",
+		"Shipment Date": "2024-07-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "57962014009",
+					"Lot Number": "1218467",
+					"Expiration Date": "",
+					"Quantity": "33"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "57962028028",
+					"Lot Number": "1236026",
+					"Expiration Date": "",
+					"Quantity": "32"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "57962042028",
+					"Lot Number": "1238071",
+					"Expiration Date": "",
+					"Quantity": "22"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "57962042028",
+					"Lot Number": "1238073",
+					"Expiration Date": "",
+					"Quantity": "96"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eb0a5b35-c1b3-47bf-8c0a-5477409b1970TRACELINK SCANS 7-30-2024_2_ABBVIE_466739_8.pdf",
+		"Page Number": "2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "445781",
+		"Transfer From": "Vertex Pharmaceuticals Inc",
+		"Transaction Date": "2024-04-29",
+		"Shipment Date": "2024-04-29",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "51167-0200-01",
+					"Lot Number": "2000413",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "12"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "51167-0331-01",
+					"Lot Number": "1967679",
+					"Expiration Date": "2026-10-31",
+					"Quantity": "217"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "51167-0446-01",
+					"Lot Number": "W005364A",
+					"Expiration Date": "2025-05-31",
+					"Quantity": "12"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eb01d5a9-770f-41a9-85f8-b9e456414744TRACELINK SCANS 5-1-2024_VERTEX_445781_10.pdf",
+		"Page Number": "2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "160611619",
+		"Transfer From": "MERCK",
+		"Transaction Date": "2023-09-15",
+		"Shipment Date": "2023-09-15",
+		"Drop Shipment": "Yes",
+		"Sold To": "CARDINAL HEALTH",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "0006307602",
+					"Lot Number": "X020557",
+					"Expiration Date": "2026-02-27",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eb4d67c7-007a-4eb6-b7c6-8fd084ea3103merck 73856.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "462943",
+		"Transfer From": "MCKESSON PHARMA",
+		"Transaction Date": "2024-07-10",
+		"Shipment Date": "2024-07-10",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "69097066468",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00004-0259-01",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "43598-0852-30",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "42385-0953-30",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "00781-3246-64",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 6": {
+					"NDC": "60505-3250-06",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 7": {
+					"NDC": "67108-3565-09",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 8": {
+					"NDC": "72880-0192-05",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 9": {
+					"NDC": "31722-0047-30",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "9"
+				}
+			},
+			{
+				"Product 10": {
+					"NDC": "43598-0394-67",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 11": {
+					"NDC": "16571-0810-01",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 12": {
+					"NDC": "00074-3641-03",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 13": {
+					"NDC": "00002-4815-54",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "24"
+				}
+			},
+			{
+				"Product 14": {
+					"NDC": "00002-6216-54",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "4"
+				}
+			},
+			{
+				"Product 15": {
+					"NDC": "62332-0619-31",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 16": {
+					"NDC": "00078-0649-30",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 17": {
+					"NDC": "43598-0048-63",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 18": {
+					"NDC": "69097-0664-68",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 19": {
+					"NDC": "00078-0386-66",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 20": {
+					"NDC": "61958-2101-01",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 21": {
+					"NDC": "64406-0020-03",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 22": {
+					"NDC": "00074-2625-28",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eb4ed6c6-c5ec-4bf8-96f0-7698cebe4962mckesson 462943.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "524684",
+		"Transfer From": "McKesson Plasma and Biologics LLC",
+		"Transaction Date": "2025-03-04",
+		"Shipment Date": "2025-03-04",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "68992301003",
+					"Lot Number": "7616202A",
+					"Expiration Date": "2026-06-30",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00069048603",
+					"Lot Number": "LG6516",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "00069068803",
+					"Lot Number": "LG6518",
+					"Expiration Date": "2026-08-31",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "00069028403",
+					"Lot Number": "LG9678",
+					"Expiration Date": "2027-02-28",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "00069033428",
+					"Lot Number": "LH1090",
+					"Expiration Date": "2027-02-28",
+					"Quantity": "31"
+				}
+			},
+			{
+				"Product 6": {
+					"NDC": "70710117903",
+					"Lot Number": "E401276",
+					"Expiration Date": "2026-02-28",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e606973d-3730-498a-80d4-d1e4dbc79071mckesson sp 524684.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "455636",
+		"Transfer From": "Vertex Pharmaceuticals Inc",
+		"Transaction Date": "2024-06-10",
+		"Shipment Date": "2024-06-10",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "51167-0106-02",
+					"Lot Number": "1968305",
+					"Expiration Date": "2025-02-28",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "51167-0331-01",
+					"Lot Number": "2030879",
+					"Expiration Date": "2026-10-31",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "51167-0446-01",
+					"Lot Number": "W005354C",
+					"Expiration Date": "2026-06-30",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e698337d-37e9-4ecd-ae89-ec17cc2e331106112024VERTEX.455636150223.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "444494",
+		"Transfer From": "EMD SERONO",
+		"Transaction Date": "2024-04-23",
+		"Shipment Date": "2024-04-23",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "44087-4000-00",
+					"Lot Number": "00035953",
+					"Expiration Date": "2027-04-30",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "44087-4000-05",
+					"Lot Number": "00035799",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "44087-4000-06",
+					"Lot Number": "00035833",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "44087-4000-07",
+					"Lot Number": "00035951",
+					"Expiration Date": "2027-04-30",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "44087-4000-09",
+					"Lot Number": "00035952",
+					"Expiration Date": "2027-04-30",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e836486d-e434-4d01-b156-5d37cf57c991TRACELINK SCANS 4-25-2024_EMD SERONO_444494_18.pdf",
+		"Page Number": "1, 2, 3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "407331",
+		"Transfer From": "SPECIALTY PHARMACEUTICAL SERVICES",
+		"Transaction Date": "2023-10-31",
+		"Shipment Date": "2023-10-31",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "70510232201",
+					"Lot Number": "026082A",
+					"Expiration Date": "2024-12-31",
+					"Quantity": "76"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e876757f-9014-4a6f-ae8f-a97cd0308a69TRACELINK SCANS 11-6-2023_SPECIALTY_407331_6.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "544102M9912",
+		"Transfer From": "Genzyme, a sanofi company",
+		"Transaction Date": "2025-05-09",
+		"Shipment Date": "2025-05-09",
+		"Drop Shipment": "Yes",
+		"Sold To": "MCKESSON CORP.",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "58468004101",
+					"Lot Number": "FY0069",
+					"Expiration Date": "2027-10-31",
+					"Quantity": "7"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "58468004001",
+					"Lot Number": "FY0101",
+					"Expiration Date": "2027-11-30",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e0889932-7dc1-4a3f-9815-83148c151581TRACELINK SCANS 5-14-2025_CENTRAL OH MCK_544102_1.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "412300",
+		"Transfer From": "SANDOZ",
+		"Transaction Date": "2023-11-27",
+		"Shipment Date": "2023-11-27",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "61314-866-01",
+					"Lot Number": "MV5478",
+					"Expiration Date": "2025-12-31",
+					"Quantity": "22"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e910430a-006b-4d03-b274-4ce13b1ef69fTraceLink Scans 11-30-2023_Sandoz_412300_16.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "549912",
+		"Transfer From": "MCKESSON SPECIALTY",
+		"Transaction Date": "2025-05-31",
+		"Shipment Date": "2025-05-31",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00069048603",
+					"Lot Number": "LM1331",
+					"Expiration Date": "2027-05-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00069028403",
+					"Lot Number": "LR8726",
+					"Expiration Date": "2027-09-30",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "00069033428",
+					"Lot Number": "LP2868",
+					"Expiration Date": "2027-08-31",
+					"Quantity": "23"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "70710118003",
+					"Lot Number": "E409418",
+					"Expiration Date": "2026-11-30",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "00069068803",
+					"Lot Number": "LG9677",
+					"Expiration Date": "2027-04-30",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 6": {
+					"NDC": "59676060430",
+					"Lot Number": "QABSE00",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "17"
+				}
+			},
+			{
+				"Product 7": {
+					"NDC": "59676060012",
+					"Lot Number": "25CG684",
+					"Expiration Date": "2028-01-31",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 8": {
+					"NDC": "00069019301",
+					"Lot Number": "LR5620",
+					"Expiration Date": "2028-05-31",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea17ada4-d9c3-4733-aaee-fdd3de9d9d81mckesson sp 549912.pdf",
+		"Page Number": "1, 2, 3, 4",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "411835",
+		"Transfer From": "Eversana Life Science Services,LLC",
+		"Transaction Date": "2023-11-22",
+		"Shipment Date": "2023-11-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "0713035281",
+					"Lot Number": "M23655",
+					"Expiration Date": "2025-07-31",
+					"Quantity": "6"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea53f185-5f4a-4d72-9bb7-2c0f9442e42bTraceLink Scans 11-30-2023_Cosette_411835_22.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "419210",
+		"Transfer From": "MEKESSON",
+		"Transaction Date": "2024-01-02",
+		"Shipment Date": "2024-01-02",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "61755-0005-01",
+					"Lot Number": "8231500358",
+					"Expiration Date": "2025-03-31",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea94a615-3c7d-4222-91be-f5bfc6c256dbMCK419210.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "61395",
+		"Transfer From": "CSL BEHRING INC",
+		"Transaction Date": "2023-07-22",
+		"Shipment Date": "2023-07-22",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "63833-828-02",
+					"Lot Number": "P100547370",
+					"Expiration Date": "2026-01-12",
+					"Quantity": "85"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea379593-e8ca-4c41-be72-fef1bb345d6bTRACELINK SCANS 7-25-2023_CSL BEHRING_61395_28.pdf",
+		"Page Number": "1, 2, 3, 4",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "416067",
+		"Transfer From": "CSL BEHRING INC",
+		"Transaction Date": "2023-12-12",
+		"Shipment Date": "2023-12-21",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "63833-828-02",
+					"Lot Number": "P100602614",
+					"Expiration Date": "2026-05-22",
+					"Quantity": "121"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "63833-829-02",
+					"Lot Number": "P100604957",
+					"Expiration Date": "2026-07-06",
+					"Quantity": "57"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "ea903811-61d8-489d-aed8-956c4f5eb903TRACELINK SCANS 12-26-2023_CSL BEHRING_416067_32.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "487723",
+		"Transfer From": "MCKESSON SPECIALTY",
+		"Transaction Date": "2024-10-09",
+		"Shipment Date": "2024-10-09",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "55513011201",
+					"Lot Number": "W005360",
+					"Expiration Date": "2025-11-30",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "55513011201",
+					"Lot Number": "1173904",
+					"Expiration Date": "2026-02-28",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "49702025315",
+					"Lot Number": "VR5G",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "00003373413",
+					"Lot Number": "2051898",
+					"Expiration Date": "2025-07-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "55513011201",
+					"Lot Number": "1173904",
+					"Expiration Date": "2026-02-28",
+					"Quantity": "11"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eaa2db39-4b46-43cc-a2af-e143e97b4b17mckesson 487723.pdf",
+		"Page Number": "1, 2, 3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "516083M0768",
+		"Transfer From": "Alexion",
+		"Transaction Date": "2025-01-29",
+		"Shipment Date": "2025-01-29",
+		"Drop Shipment": "Yes",
+		"Sold To": "Mckesson Specialty",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "25682000101",
+					"Lot Number": "1004352",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eabb2887-ca62-4fc5-a5de-8a77bb3f4dc0TRACELINK SCANS 1-31-2025_MCKESSON PLASMA_516083_2.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "426981",
+		"Transfer From": "EMD SERONO INC",
+		"Transaction Date": "2024-02-06",
+		"Shipment Date": "2024-02-06",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "44087-4000-06",
+					"Lot Number": "00035494",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "44087-4000-07",
+					"Lot Number": "00035800",
+					"Expiration Date": "2027-03-31",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "44087-4000-08",
+					"Lot Number": "00035439",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "44087-4000-09",
+					"Lot Number": "00035898",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eac4ce39-6196-41b2-a4a3-6a0687028973TRACELINK SCANS 2-9-2024_1_EMD SERONO_426981_19.pdf",
+		"Page Number": "1, 2, 3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "480909",
+		"Transfer From": "PHARMACYCLICS",
+		"Transaction Date": "2024-09-12",
+		"Shipment Date": "2024-09-12",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "57962001428",
+					"Lot Number": "1238697",
+					"Expiration Date": "",
+					"Quantity": "8"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "57962028028",
+					"Lot Number": "1236026",
+					"Expiration Date": "",
+					"Quantity": "23"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "eacd839e-de7f-4825-a5fb-9d3131eb840fTRACELINK SCANS 9-16-2024_ABBVIE_480909_11.pdf",
+		"Page Number": "1, 2, 3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "416647",
+		"Transfer From": "PHARMACYCLICS",
+		"Transaction Date": "2023-12-18",
+		"Shipment Date": "2023-12-18",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "57962001428",
+					"Lot Number": "1175350",
+					"Expiration Date": "",
+					"Quantity": "12"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "57962007028",
+					"Lot Number": "1179876",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f6f3245c-a2ee-4535-b73e-cf1b14d239a1TRACELINK SCANS 12-21-2023_ABBVIE_416647_16.pdf",
+		"Page Number": "1, 2, 4",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "000061779",
+		"Transfer From": "Eversana Life Science Services,LLC",
+		"Transaction Date": "2023-07-25",
+		"Shipment Date": "2023-07-25",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "0713035281",
+					"Lot Number": "M23511",
+					"Expiration Date": "2025-05-31",
+					"Quantity": "12"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f7ccd6df-dad6-4e94-9116-40a25cee97cbTRACELINK SCANS 7-31-2023_COSETTE PHARMA_61779_20.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "520818",
+		"Transfer From": "Genentech",
+		"Transaction Date": "2025-02-17",
+		"Shipment Date": "2025-02-17",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "50242021555",
+					"Lot Number": "3617756",
+					"Expiration Date": "2025-12-31",
+					"Quantity": "5.000"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f7ed3da6-ab9c-422b-9b51-8e7ff1ad38dfGenentech 520818.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "433515",
+		"Transfer From": "TAKEDA PHARMACEUTICALS",
+		"Transaction Date": "2024-03-06",
+		"Shipment Date": "2024-03-06",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00008074020",
+					"Lot Number": "H524",
+					"Expiration Date": "2027-12-01",
+					"Quantity": "22"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "42227008301",
+					"Lot Number": "C4A007AB",
+					"Expiration Date": "2026-06-30",
+					"Quantity": "25"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "00944-2658-04",
+					"Lot Number": "BE08D023AC",
+					"Expiration Date": "2025-09-24",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "54092-0702-03",
+					"Lot Number": "03522463",
+					"Expiration Date": "2025-03-31",
+					"Quantity": "10"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "00944-2700-07",
+					"Lot Number": "C23G212BAA",
+					"Expiration Date": "2026-12-19",
+					"Quantity": "3"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f7ed5d21-048e-4920-bd23-f6a189af0567TraceLink Scans 03-11-2024_Takeda_433515_7.pdf",
+		"Page Number": "1, 2, 3, 4, 5, 6",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "415156",
+		"Transfer From": "VERTEX PHARMACEUTICALS INC",
+		"Transaction Date": "2023-12-11",
+		"Shipment Date": "2023-12-11",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "51167033101",
+					"Lot Number": "1930718",
+					"Expiration Date": "2026-08-31",
+					"Quantity": "5"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f8a3ec22-3a62-43c1-86ce-bf9cc9a61f9fVertex PO # 415156.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "526281",
+		"Transfer From": "TAKEDA PHARMACEUTICALS AMERICA",
+		"Transaction Date": "2025-03-10",
+		"Shipment Date": "2025-03-10",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "63020-0400-02",
+					"Lot Number": "12701058",
+					"Expiration Date": "2026-01-31",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00944-2700-06",
+					"Lot Number": "C24G259AAA",
+					"Expiration Date": "2027-11-29",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f8a093d9-2876-44b1-b2be-d48185b1fde2takeda 526281.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "62580",
+		"Transfer From": "CSL BEHRING",
+		"Transaction Date": "2023-07-24",
+		"Shipment Date": "2023-07-24",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "63833-828-02",
+					"Lot Number": "P100547370",
+					"Expiration Date": "2026-01-12",
+					"Quantity": "11"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "63833-829-02",
+					"Lot Number": "P100562993",
+					"Expiration Date": "2026-03-06",
+					"Quantity": "10"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f8aba0f7-f9d3-42da-b363-b9e1631df1a9CSL 62580.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "457625",
+		"Transfer From": "Vertex Pharmaceuticals Inc.",
+		"Transaction Date": "2024-06-18",
+		"Shipment Date": "2024-06-18",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "51167-0331-01",
+					"Lot Number": "2030879",
+					"Expiration Date": "2026-10-31",
+					"Quantity": "6"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f45a53a1-e3f2-4048-bf81-2058b792a55706192024VERTEX.457625140519.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "449751",
+		"Transfer From": "Optum Specialty Distribution, LLC",
+		"Transaction Date": "2024-05-15",
+		"Shipment Date": "2024-05-15",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "55513081328",
+					"Lot Number": "1162249",
+					"Expiration Date": "",
+					"Quantity": "18"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "00310067912",
+					"Lot Number": "TP0088",
+					"Expiration Date": "",
+					"Quantity": "36"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "00310351260",
+					"Lot Number": "WA0007",
+					"Expiration Date": "",
+					"Quantity": "84"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f057fabc-0176-42ca-9f8a-45e4bd3080a5TRACELINK SCANS 5-17-2024_OPTUM_449751_6.pdf",
+		"Page Number": "1, 2, 3",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "451053",
+		"Transfer From": "TAIHO ONCOLOGY INC",
+		"Transaction Date": "2024-05-21",
+		"Shipment Date": "2024-05-21",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "64842-1020-01",
+					"Lot Number": "2021659",
+					"Expiration Date": "2027-01-31",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "64842-1025-01",
+					"Lot Number": "2025055",
+					"Expiration Date": "2027-02-28",
+					"Quantity": "18"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "64842-1025-03",
+					"Lot Number": "2025057",
+					"Expiration Date": "2027-02-28",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f58caa2a-f690-468e-b6d7-e0a4f18d07b8TRACELINK SCANS 5-23-2024_TAIHO_451053_13.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "03072025Sacramento-OSPJV",
+		"Transfer From": "Optum RX",
+		"Transaction Date": "2025-03-12",
+		"Shipment Date": "2025-03-12",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "57894006103",
+					"Lot Number": "NDS38MA",
+					"Expiration Date": "2026-03-31",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f59fb966-3178-407f-966a-97b1a0777390TRACELINK SCANS 3-18-2025_03072025Sacremento-OSPJV_1.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "460689",
+		"Transfer From": "SANDOZ INC",
+		"Transaction Date": "2024-07-01",
+		"Shipment Date": "2024-07-01",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "61314-866-01",
+					"Lot Number": "MV5478",
+					"Expiration Date": "2025-12-31",
+					"Quantity": "9"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f74c6a71-abe2-4757-ab7e-ee7c2f1ab28eTraceLink scans 07-17-2024 -Manual 3_Sandoz_460489_3.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "498392",
+		"Transfer From": "MCKESSON PHARMA",
+		"Transaction Date": "2024-11-20",
+		"Shipment Date": "2024-11-20",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "61958180101",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "69097066434",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "70748015301",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "63304011613",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 5": {
+					"NDC": "24979071544",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 6": {
+					"NDC": "59148-0045-80",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 7": {
+					"NDC": "00591-2512-60",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 8": {
+					"NDC": "31722-0103-30",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 9": {
+					"NDC": "59651-0086-30",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 10": {
+					"NDC": "61958-2002-01",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 11": {
+					"NDC": "67877-0706-90",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "19"
+				}
+			},
+			{
+				"Product 12": {
+					"NDC": "49702-0228-13",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 13": {
+					"NDC": "67877-0459-12",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "18"
+				}
+			},
+			{
+				"Product 14": {
+					"NDC": "60505-3628-06",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 15": {
+					"NDC": "00093-7767-24",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "7"
+				}
+			},
+			{
+				"Product 16": {
+					"NDC": "00078-0649-13",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 17": {
+					"NDC": "00093-7630-56",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "12"
+				}
+			},
+			{
+				"Product 18": {
+					"NDC": "51991-0759-33",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 19": {
+					"NDC": "72603-0301-01",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "8"
+				}
+			},
+			{
+				"Product 20": {
+					"NDC": "00703-3217-01",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 21": {
+					"NDC": "61958-1101-01",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "1"
+				}
+			},
+			{
+				"Product 22": {
+					"NDC": "00054-0711-19",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 23": {
+					"NDC": "49702-0231-13",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "4"
+				}
+			},
+			{
+				"Product 24": {
+					"NDC": "55566-4100-01",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "10"
+				}
+			},
+			{
+				"Product 25": {
+					"NDC": "00074-2282-03",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 26": {
+					"NDC": "59137-0530-04",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 27": {
+					"NDC": "00074-1043-28",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "3"
+				}
+			},
+			{
+				"Product 28": {
+					"NDC": "64980-0449-03",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "21"
+				}
+			},
+			{
+				"Product 29": {
+					"NDC": "08470-1150-01",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "58"
+				}
+			},
+			{
+				"Product 30": {
+					"NDC": "00074-2625-28",
+					"Lot Number": "",
+					"Expiration Date": "",
+					"Quantity": "4"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "f76bf554-e7c5-4da2-be08-4bea37bc98d6mckesson 498392.pdf",
+		"Page Number": "1, 2, 3, 4, 5, 6, 7",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "436640",
+		"Transfer From": "ACTELION PHARMACEUTICALS US",
+		"Transaction Date": "2024-03-20",
+		"Shipment Date": "2024-03-20",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "66215023256",
+					"Lot Number": "JP052A0101",
+					"Expiration Date": "2026-12-31",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e2382045-2f87-4460-afd8-ac663c145fabTRACELINK SCANS 3-22-2024_ACTELION_436640_21.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "64575",
+		"Transfer From": "Vertex Pharmaceuticals Inc",
+		"Transaction Date": "2023-08-01",
+		"Shipment Date": "2023-08-01",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "51167-0106-02",
+					"Lot Number": "1926728A",
+					"Expiration Date": "2024-02-29",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "51167-0200-01",
+					"Lot Number": "1939599",
+					"Expiration Date": "2026-03-31",
+					"Quantity": "2"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "51167-0445-01",
+					"Lot Number": "W071537A",
+					"Expiration Date": "2024-11-30",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e2471589-109a-4283-81b2-5e1a3db3e031vertex_64575.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "417232",
+		"Transfer From": "Alkermes Inc",
+		"Transaction Date": "2023-12-20",
+		"Shipment Date": "2023-12-20",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "65757030001",
+					"Lot Number": "2023-1026T",
+					"Expiration Date": "2026-04-30",
+					"Quantity": "72"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e2895884-0cb7-486f-b12b-7ae4c9dcdfa6TRACELINK SCANS 12-26-2023_ALKERMES_417232_24.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "461143M4714",
+		"Transfer From": "MILLENNIUM DIRECT",
+		"Transaction Date": "2024-07-05",
+		"Shipment Date": "2024-07-02",
+		"Drop Shipment": "Yes",
+		"Sold To": "MCKESSON",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "63020004901",
+					"Lot Number": "12173621",
+					"Expiration Date": "2025-06-30",
+					"Quantity": "1"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e3018617-2b0b-4c27-8e8c-77feca92a24eTraceLink scans 07-24-2024_Central_461143_17.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "66531",
+		"Transfer From": "TAIHO ONCOLOGY INC",
+		"Transaction Date": "2023-08-10",
+		"Shipment Date": "2023-08-10",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "64842072709",
+					"Lot Number": "1964166",
+					"Expiration Date": "2025-07-21",
+					"Quantity": "7"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "64842102001",
+					"Lot Number": "1957385",
+					"Expiration Date": "2026-06-30",
+					"Quantity": "6"
+				}
+			},
+			{
+				"Product 3": {
+					"NDC": "64842102502",
+					"Lot Number": "1982072",
+					"Expiration Date": "2026-07-31",
+					"Quantity": "5"
+				}
+			},
+			{
+				"Product 4": {
+					"NDC": "64842102503",
+					"Lot Number": "1923152",
+					"Expiration Date": "2026-01-31",
+					"Quantity": "2"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e3347241-4e23-4bf4-8f6d-bf5b33a154ebTRACELINK SCANS 8-14-2023_TAIHO_66531_15.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "449732",
+		"Transfer From": "astellas",
+		"Transaction Date": "2024-05-15",
+		"Shipment Date": "2024-05-15",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "00469072560",
+					"Lot Number": "8178675",
+					"Expiration Date": "2026-09-30",
+					"Quantity": "49"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e4045693-1c0d-42c1-8f69-8a2b297c5686TRACELINK SCANS 5-20-2024_ASTELLAS_449732_16.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	},
+	{
+		"Delivery Number": "442944",
+		"Transfer From": "IPSEN",
+		"Transaction Date": "2024-04-16",
+		"Shipment Date": "2024-04-16",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "15054050001",
+					"Lot Number": "003010",
+					"Expiration Date": "2026-01-31",
+					"Quantity": "15"
+				}
+			},
+			{
+				"Product 2": {
+					"NDC": "15054109004",
+					"Lot Number": "A66968",
+					"Expiration Date": "2026-06-30",
+					"Quantity": "5"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "e4329269-1026-4518-942a-115d00a58e76TRACELINK SCANS 4-18-2024_IPSEN_442944_10.pdf",
+		"Page Number": "1, 2",
+		"Status": "Correct Info"
+	}
+]

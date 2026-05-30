@@ -1,0 +1,262 @@
+1. Copy N number of files in your Drive folder
+2. Create a folder by today's date and put those files there
+3. Use Gemini prompt to generate jsons, validate them and create a text file of your name with today's date in the format Name_YYYYMMDD. 
+3.1. In the input file, keep the format of data correct, correct any data if need be and ensure the file name is same as the pdf file for respective jsons.
+4. Create a folder on drive and keep the text and pdf files in daywise folders. 1 input file a day per person.
+5. Once the files are processed , Kaustubh will put the Output files in his drive folder which will have DN data .
+6. To validate DNs, create if missed and verify done ones. NAI, MT and Skipped will be skipped. 
+7. Once step 6 done, update the Output excel to move the files 
+8. Update the prompt for Drop Shipment field as and when you find new companies 
+9. Use your experience for Transfer From field
+ 
+
+
+
+Once you get FOB access 
+1. Putting of text files in Input folder
+2. Putting of PDF files in PDF folder 
+3. Fetching the Log files on daily basis 
+4. Removing the PDFs from PDF folder 
+5. Creating updated output excel copy for movement. Every 2 days , you will send me the output excel with the file movement data .
+Needs Additional Information - 675414c9-f76f-46f1-8682-5175099a4276
+Completed - c0c5e083-c5fa-42f8-8f3e-73304f3ccb1b
+Missing TS - d8df8367-f1e4-4ab5-ac61-8f9a805feac0
+
+
+
+
+Explain the P2D flow 
+
+
+
+
+New P2D Prompt
+
+My Pharmacy Name - 'BRIOVARX OF NEW YORK INC'/'OPTUM'/'OPTUMRX'/'OPTUM PHARMACY 706 LLC'/'OPTUM SPECIALITY PHARMACY'
+I am a data entry operator at a pharmacy tasked to manually input all the details about drug shipments to my pharmacy into a computer software. All the shipment information is present in the attached PDF files. Each PDf consists of the details of multiple shipments coming to my pharmacy.
+
+You need to follow below instructions to understand what needs to be populated in what format.
+
+1.Each shipment in a PDF is uniquely identified by a Delivery number. A Delivery number might have details about 1 or more drugs prescribed to 1 or more patients spanning across 1 or more pages.Patient information is to be ignored. If the Delivery Number spans across multiple pages but 'Transfer From' changes in between, then that should be categorised as 2 unique Delivery Numbers with 2 different 'Transfer From's'
+2.Each drug associated with a Delivery Number may have the details about its NDC, Lot Number ,Quantity and Expiration date.
+3.We need to extract the drug information for each unique Delivery Number spanning across multiple pages or a single page in the pdf irrespective of the company, into JSON format with below mentioned fields.
+4.If there are more than 1 drugs or a drug has multiple Lot numbers under a Delivery number then all the drugs information should be nested under 'Product Details' section of that JSON for EACH drug. If a drug has multiple lot numbers then there should be a unique entry of each lot number with the product.
+example -
+5. ONLY IF ,any one or more of these fields such as 'Transfer From' ,'Transaction or Shipment date', 'NDC' (For any product) , 'Quantity' (For any Product) are missing in any JSON for a Delivery number, you need to mark that json as 'Needs Additional Information'.
+6. If 'Transaction Statement' is 'Not Complied' in any JSON, you need to mark that JSON as 'Missing TS'.
+7. If all the expected fields are present, then you need to mark that JSON as 'Correct Info'.
+8. After processing all the pdfs , a cumulative single output should be created for all the pdfs. Output should have all the unique jsons extracted for every unique Delivery Number for each pdf. Example of sample output for 2 pdfs is given in Instructions Point 12.
+9. Once all the pdfs are processed , I need below details to be mentioned. 
+a) Total JSONs - PDFwise
+b)'Needs Additional Information' - Pdfwise all the Delivery Numbers , their Page numbers(from the pdf for manually checking the data) and what fields was missing in that JSON for each Delivery Number 
+c)'Missing TS' - Pdfwise all the Delivery Numbers and their Page numbers(from the pdf for manually checking the data)
+d)'Correct Info' -Pdfwise all the Delivery Numbers and their Page numbers(from the pdf for manually checking the data)
+
+
+Below are the fields to be populated in each json:
+
+1. Delivery Number
+2. Transfer From
+3. Transaction Date
+4. Shipment Date
+5. Drop Shipment (if applicable) 
+6. Sold To (If applicable)
+7. Product details
+8. Transaction Statement 
+9. PDF Name (Exact pdf name as is passed to the prompt) 
+10. Page Number(Extracted from the PDF for the Delivery Number for manually searching in PDF)
+11. Status 
+
+
+
+Please follow below instructions to populate each field
+
+
+1.Delivery number 
+
+To identify the Delivery Number, please look for one of the below fields in the OCR Output .
+Priority order when choosing a number for the Delivery number field is as follows:
+a)PO Number/PO/Customer PO Number/Purchase Order No./Customer PO/Order Number
+b)Delivery Number
+d)Customer Number/Customer Order
+e)Invoice Number
+f)Reference Number
+e)Any other number
+
+VERY IMPORTANT NOTE - PLEASE RELIGIOUSLY FOLLOW THE ABOVE PRIORITY ORDER WHILE DETERMINING THE DELIVERY NUMBER. 
+Example - If on a page both the 'Deliver Number' field and 'PO Number is present, 'PO number' should be given priority above 'Delivery Number' as per the priority order.
+
+
+2. Transfer From
+Please follow below instructions religiously to identify the 'Transfer From' field
+a)Logo name at top Top left/Top right/Bottom left/Bottom right SHOULD be taken as the 'Transfer From'. Most of the times logo is present at top left or top right. I just need the correct company name out of the Logo
+b)If point a) doesn't work, look for 'Sold From' , 'Serviced By', 'Sold By' fields from the OCR output. Please note that I just need 'Company Name' FROM the LOGO and not the address of the company.
+c)If the 'Transfer From' contains keywords such as 'Embectus', 'Bioventus','JOM Pharmaceutical Services','Johnson' , then the Status SHOULD BE 'Skipped' for those Delivery Numbers.
+
+
+3. Transaction Date & Shipment Date
+It is the order date when the order was placed.
+PLEASE NOTE THAT BOTH THESE DATES SHOULD BE SAME.
+If no transaction or shipment date is available,you may use the Print Date (the date when the document was printed)
+
+Very Imp Note - Convert these dates into YYYY-MM-DD format.
+
+
+
+4. Drop Shipment & Sold To 
+To determine the Drop Shipment and Sold To values, evaluate 'Transfer From', 'Sold To','Bill To','Customer Address' fields from OCR output and follow the below instructions strictly as per order :
+
+a)If 'Transfer From' contains keywords such as 'Mckesson','Mckesson Drug','Mckesson Drug Corp','Mckesson Corporation','Mckesson Corp','Cardinal', 'Cardinal Health', 'Cencora', 'Amerisourcebergen',  then Drop Shipment value is 'No' and  'Sold To' field should be empty.
+b)If 'Bill To'/'Sold To'/'Customer Address' fields contain keywords such as 'OPTUM','OPTUMRX','OPTUM PHARMACY 706 LLC','OPTUM SPECIALITY PHARMACY' ,then Drop Shipment value is 'No' and 'Sold To' field should be empty.
+c)ONLY IF, the 'Bill To'/'Sold To'/'Customer Address' contain keywords such as 'Mckesson','MCK','Mckesson Drug','Mckesson Drug Corp','Mckesson Corporation','Mckesson Corp','Cardinal', 'Cardinal Health', 'Cencora', 'Amerisourcebergen', then Drop Shipment value is 'Yes' and the 'Bill To'/'Sold To'/'Customer Address' company name goes in 'Sold To' section. Else in all other cases,  Drop Shipment value is 'No' and 'Sold To' field should be empty.The text in LOGO at Top left/Top right/Bottom left/Bottom right does not constitute the 'Bill To'/'Sold To' section.
+VERY IMP NOTE -Strictly follow the instructions in the given order.example -  If a) satisfies , no need to look for b) and c). If a) doesn't satisfy , only then go ahead and look for b). If b) satisfies don't look for c)
+
+
+5. NDC (National Drug Code)
+NDC is the unique identifier for the product received. 
+NDC will be identified by ONLY "NDC" word in the image. DO NOT LOOK FOR ANY OTHER WORD.
+Please capture all the NDCs visible on the page under a Delivery Number. 
+If not available, please keep NDC field empty. 
+Very Imp Note - NDC is the most imp part of the document. DO NOT miss any.
+
+
+6. Lot Number
+A Lot Number may also be referred to as a Batch Number.Enter the Lot/Batch Number exactly as it appears on the document. If no Lot number present, keep the field empty. There can be more than 1 lot numbers associated with the same drug. Please list all the lot numbers ina nested manner under that particular 'Product'
+
+
+7. Expiration Date
+Expiration date is the expiration date of the drug. It can be 'Exp' or 'Expiration Dt' or 'Exp Dt' or some other related term for Expiry. 
+In some cases, a date may be listed near the NDC and Lot Number without a label. To determine whether an unlabeled date is an Expiration Date ,verify whether the date is significantly in the future relative to the Transaction Date & Shipment Date.If the date is far from today, it is likely the Expiration Date and should be entered accordingly.
+If no Expiration date is found, keep the field empty.
+Very Imp Note - Convert these dates into YYYY-MM-DD format.
+
+
+8. Quantity
+Quantity should be quantity associated with the specific product listed on the document.
+Some documents may display two quantities such as Order Quantity or Invoice Quantity
+If both quantities are present and differ , always put the Invoice Quantity as "Quantity".
+If both quantities are the same, that value should be "Quantity"
+
+
+9. Transaction Statement 
+A Transaction Statement (TS) confirms that the drug products sold under the shipment are compliant with the Drug Supply Chain Security Act (DSCSA). Every Delivery Number has a Transaction Statement which has below keywords associated with it.
+
+a)Please look for Keywords such as '21 U.S.C. 360eee(27)','Drug supply chain security act','www.DSCSAConnect.com', 'Seller has complied with each applicable subsection of FDCA Sec . 581(27)(A)-(G)', 'Transaction Statement', DQSA/DSCSA, DSCSA related to Transaction Statement at the bottom or middle in the attached PDFs .
+b)Please check whether 'Transaction From' , 'Bill To' , 'Sold To' or any other Company name field contains keywords such as 'Mckesson','Mckesson Drug','Mckesson Corporation','Cardinal', 'CardinalHealth', 'Cencora', 'Amerisourcebergen'.
+Very Imp Note - If any of the above Keywords mentioned in points a) and b) are matched, then 'Transaction Statement' field value should be "Complied" else it should be "Not Complied" 
+
+
+
+10. Product Details - The products under the Product Details Section are to be put as the numbered list of dictionaries in the json.
+
+example 1- When there are multiple products/drugs associated with a 'Delivery Number'
+ Product details
+ i)Product 1
+  a)NDC
+  b)Lot Number 
+  c)Expiration Date 
+  d)Quantity
+ ii)Product 2
+  a)NDC
+  b)Lot Number 
+  c)Expiration Date
+  d)Quantity
+  
+example 2 - When there are multiple lot numbers associated with a Product/Drug of the 'Delivery Number'
+ Product details
+ i)Product 1
+  a)NDC (Same NDC as Product2)
+  b)Lot Number1 (Different Lot Number than that of Product 2)
+  c)Expiration Date 
+  d)Quantity
+ ii)Product 2
+  a)NDC (Same NDC as Product2)
+  b)Lot Number2 (Different Lot Number than that of Product 1)
+  c)Expiration Date 
+  d)Quantity
+  
+example 3- When there is single product/drug associated with a 'Delivery Number'
+ Product details
+ i)Product 1
+  a)NDC
+  b)Lot Number 
+  c)Expiration Date 
+  d)Quantity
+  
+example 4 - When there are same lot numbers with different quantities associated with same Product/Drug of the 'Delivery Number'
+ Product details
+ i)Product 1
+  a)NDC (Same NDC as Product 2)
+  b)Lot Number (Same Lot Number as Product 2)
+  c)Expiration Date
+  d)Quantity1 (Quantity different that Quantity of Product 2)
+ ii)Product 2
+  a)NDC (Same NDC as Product1)
+  b)Lot Number (Same Lot Number as Product 1)
+  c)Expiration Date
+  d)Quantity2 (Quantity different that Quantity of Product 1)
+  
+Very Imp Note - Even if there is a single product in the Product Details, you should never ever skip the product numbering. example - For a single product ,we should have Product 1 section under Product details. My code breaks if the products under thr product details are not numbered.
+
+10.PDF Name - PDF NAME SHOULD BE KEPT SAME AS THE NAME OF THE ATTACHED PDF FILE. DO NOT SHORTEN THE PDF NAME. IT IS VERY IMPORTANT TO KEEP THE SAME NAME ELSE MY CODE WILL BREAK.
+
+11. Status - This column signifies the status of the Deliver Number whether it is 'Needs Additional Information', 'Skipped', 'Missing TS' or 'Correct Info'
+
+12.PLEASE STRICTLY ADHERE TO BELOW FORMAT FOR THE OUTPUT OF EACH DELIVERY NUMBER ELSE MY CODE WILL BREAK
+Cumulative Output Example of 2 PDFs
+
+[
+  {
+    "Delivery Number": "522342",
+    "Transfer From": "BRISTOL-MYERS SQUIBB CO.",
+    "Transaction Date": "2025-02-21",
+    "Shipment Date": "2025-02-21",
+    "Drop Shipment": "No",
+    "Sold To": "",
+    "Product details": [
+      {
+        "Product 1": {
+          "NDC": "59572040228",
+          "Lot Number": "A4076A",
+          "Expiration Date": "2027-04-30",
+          "Quantity": "192"
+        }
+      },
+      {
+        "Product 2": {
+          "NDC": "59572040528",
+          "Lot Number": "C002942",
+          "Expiration Date": "2027-09-30",
+          "Quantity": "192"
+        }
+      }
+    ],
+    "Transaction Statement": "Complied",
+    "PDF Name": "55f5af6a-1e92-4a9b-a7e5-9bcde0755e06BMS_522342.pdf",
+    "Page Number": "1",
+    "Status": "Correct Info"
+  },
+  {
+		"Delivery Number": "516501",
+		"Transfer From": "CSL BEHRING",
+		"Transaction Date": "2025-02-03",
+		"Shipment Date": "2025-02-03",
+		"Drop Shipment": "No",
+		"Sold To": "",
+		"Product details": [
+			{
+				"Product 1": {
+					"NDC": "63833-828-02",
+					"Lot Number": "P100772280",
+					"Expiration Date": "2027-01-17",
+					"Quantity": "10"
+				}
+			}
+		],
+		"Transaction Statement": "Complied",
+		"PDF Name": "6885337f-acce-4f6c-b23c-ede08e85e626516501.pdf",
+		"Page Number": "1",
+		"Status": "Correct Info"
+	}
+]
+
